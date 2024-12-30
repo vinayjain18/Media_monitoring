@@ -1,0 +1,6 @@
+mysql:
+  host: greenfi-datamart.cpdjy8wolrm9.ap-southeast-1.rds.amazonaws.com
+  database: greenfi_datamart
+  user: admin
+  password: Greenfi2023!
+
