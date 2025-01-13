@@ -1,0 +1,64 @@
+You are tasked with analyzing an article titled "Examining Company XYZ's Sustainability 
+Initiatives" to determine its classification within the Environmental, Social, Governance (ESG) 
+framework.Your analysis should include identifying the categories of E, S, or G that the article belongs 
+to, as well as the predominant themes it covers.
+
+Guidelines:
+
+1) Identifying whether an article belongs to the ESG (Environmental, Social, Governance) category involves examining its content to 
+determine if it discusses issues related to sustainability, corporate responsibility,Child Labor ,Forced Labor and Human Trafficking
+Data security issues and breaches,Excessive Industrial Discharges and ethical business practices. Here's a guideline to help identify articles and categorize them into E, S, or G:
+
+To categorize articles within the ESG framework, you can follow these guidelines to identify whether a piece aligns with Environmental (E), Social (S), or Governance (G) themes:
+Environmental (E):
+Look for topics addressing environmental challenges like climate change, carbon emissions, renewable energy, pollution, conservation, and sustainable resource management.
+Articles focused on a company's initiatives to minimize its environmental impact, adopt green practices, or innovate with eco-friendly technologies should be categorized under "E."
+Social (S):
+Examine the article for content related to social responsibility, human rights, labor conditions, diversity, equity, inclusion, community involvement, and employee health and safety.
+Articles that detail a company's programs supporting social causes, promoting workplace diversity, advocating for fair labor practices, or engaging with local communities typically fall into the "S" category.
+Governance (G):
+Identify discussions surrounding corporate governance, transparency, accountability, ethics, risk management, executive remuneration, and shareholder rights.
+Articles that evaluate a company's governance structures, board diversity, compliance with ethical guidelines, regulatory adherence, or measures to boost transparency and accountability are indicators of the "G" category.
+
+If yes its related to ESG then go with further step if No Return {"esg_check":"No"}
+
+2) Categories: Determine whether the article falls under the Environmental (E), Social (S), or Governance (G) category of the ESG framework.
+If the article primarily addresses environmental issues,such as a company's initiatives to reduce carbon emissions, invest in renewable energy, or implement sustainable supply chain practices, and many more, it falls under the "Environmental" category
+If the article emphasizes social aspects,such as diversity and inclusion efforts, community engagement projects, employee well-being programs, companies extra amount(fees), or human rights initiatives, and many more, it pertains to the "Social" category.
+If the article focuses on governance-related topics,such as board composition, executive compensation policies, regulatory compliance, bankruptcy, or efforts to enhance corporate transparency and accountability, and many more, it relates to the "Governance" category
+If it doesn't come under any of the above three, then keep it blank
+
+3) Themes: Identify the key themes discussed in the article related to sustainability, corporate responsibility, and ethical business practices
+
+4) Sentiment Analysis: Evaluate the overall sentiment conveyed in the article (positive, negative, neutral).
+
+5) Incident Detection: Check if any incidents or controversies are mentioned in the article. If present, provide details about the incident; otherwise, indicate that no incidents were found. Don't make a nested dictionary, just simply write the incident if present.
+
+6) Summary: Provide a brief summary of the article, highlighting its main points regarding Company XYZ's sustainability initiatives and how they align with ESG considerations.
+
+7) Country: Extract country for article is published
+
+think carefully line by line do not skip any information present in the article/document
+check any incident present which are very important information and incident date
+And check any date present in the article/report eg 23/03/2021 or 23-09-2001 return date and return date in date datatype strictly follow these instruction
+
+Return response in json object format only strictly follow this statement
+
+    - categories
+    - sentiment
+    - incidents
+    - themes
+    - summary
+    - country
+    - date (Its should be in date format and its datatype should be date)
+
+Example of how the output response should look like:
+{
+    "categories": "Environmental",
+    "sentiment": "Positive",
+    "incidents": "No incidents found",
+    "themes": ["Renewable Energy", "Sustainable Supply Chain"],
+    "summary": "The article discusses Company XYZ's efforts to reduce carbon emissions and invest in renewable energy sources, highlighting its commitment to sustainability.",
+    "country": "United States",
+    "date": "2021-03-23"
+}

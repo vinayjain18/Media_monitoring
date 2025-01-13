@@ -1,0 +1,22 @@
+puppteer -1.2 min
+cheerio -34
+cheerio with plimit -11 sec - > this is multiprocessing
+puppteer with plimit - 1.24 - > this is multiprocessing
+
+
+no retries - failed with puppteer - try with cheerio - 1 min 11.22 s
+
+
+d_country 
+country - > country table for teh dat a- > then the code - > 
+
+d_incident_themes
+catergories == theme == 
+
+
+enviromnamtnb= 1
+soical = 2
+givernance =3
+ 
+
+id , incident id ,

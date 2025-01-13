@@ -1,0 +1,4 @@
+curl -X POST http://localhost:5002/api/scrape/single -H "Content-Type: application/json" -d '{
+  "companyName": "UOB",
+  "keyword": "climate"
+}'

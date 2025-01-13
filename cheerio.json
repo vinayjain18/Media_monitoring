@@ -1,0 +1,165 @@
+{
+    "success": true,
+    "data": [
+        {
+            "link": "https://www.businesstimes.com.sg/companies-markets/banking-finance/uob-sets-decarbonisation-targets-six-sectors-ends-financing",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Decarbonisation",
+                    "Sustainable Finance",
+                    "Climate Change Mitigation"
+                ],
+                "summary": "The article discusses UOB's commitment to decarbonisation, including its decision to stop financing new upstream oil and gas projects starting in 2023. UOB has set emission intensity reduction targets for six sectors, aiming for net-zero commitments by 2050. The bank's approach reflects a pragmatic strategy to transition towards lower carbon financing while supporting economic growth.",
+                "country": "Singapore",
+                "date": "2022-10-31"
+            }
+        },
+        {
+            "link": "https://www.uobgroup.com/uobgroup/newsroom/2022/net-zero-target.page?path=data/uobgroup/2022/253&cr=segment",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Net Zero Targets",
+                    "Decarbonisation",
+                    "Sustainable Development"
+                ],
+                "summary": "The article discusses UOB's commitment to achieving net zero emissions by 2050, outlining specific targets for various sectors and emphasizing the importance of a just transition that balances economic growth with environmental responsibility. UOB aims to integrate these sustainability goals into its business strategies and has joined the Net-Zero Banking Alliance to support global decarbonisation efforts.",
+                "country": "Singapore",
+                "date": "2022-10-31"
+            }
+        },
+        {
+            "link": "https://www.eco-business.com/news/green-is-not-enough-uob-chief-sustainability-officer-on-mainstreaming-transition-finance/",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Transition Finance",
+                    "Sustainable Financing",
+                    "Carbon Emissions Reduction"
+                ],
+                "summary": "The article discusses UOB's efforts in promoting transition finance to help carbon-intensive sectors pivot towards greener practices. It highlights the bank's Transition Finance Framework, which supports clients in adopting low-carbon technologies and achieving net zero targets. The article emphasizes the importance of high-quality transition plans and regulatory clarity to facilitate this shift.",
+                "country": "Singapore",
+                "date": "2024-01-05"
+            }
+        },
+        {
+            "link": "https://www.eco-business.com/news/green-is-not-enough-uob-chief-sustainability-officer-on-mainstreaming-transition-finance/",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Transition Finance",
+                    "Sustainable Financing",
+                    "Carbon Emissions Reduction"
+                ],
+                "summary": "The article discusses UOB's efforts in promoting transition finance to help carbon-intensive sectors pivot towards sustainable practices. It highlights the bank's Transition Finance Framework, which supports clients in adopting low-carbon technologies and achieving net zero targets, while also addressing the need for regulatory clarity and high-quality transition plans.",
+                "country": "Singapore",
+                "date": "2024-01-05"
+            }
+        },
+        {
+            "link": "https://www.uobgroup.com/uobgroup/newsroom/2022/net-zero-target.page?path=data/uobgroup/2022/253&cr=segment",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Net Zero Targets",
+                    "Decarbonisation",
+                    "Sustainable Development"
+                ],
+                "summary": "The article outlines UOB's commitment to achieving net zero carbon emissions by 2050, emphasizing a just transition that balances economic growth with environmental responsibility. It details specific interim targets for various sectors and highlights UOB's integration of these goals into its business strategies.",
+                "country": "Singapore",
+                "date": "2022-10-31"
+            }
+        },
+        {
+            "link": "https://www.prnewswire.com/apac/news-releases/uob-makes-steady-progress-on-net-zero-commitment-301972132.html",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Net Zero Commitment",
+                    "Decarbonisation",
+                    "Sustainable Financing"
+                ],
+                "summary": "The article discusses UOB's first net zero progress report, highlighting its commitment to achieving net zero by 2050. It outlines specific reduction targets across five sectors and emphasizes the bank's efforts in supporting clients' decarbonisation journeys while fostering a just transition in Southeast Asia.",
+                "country": "Singapore",
+                "date": "2023-10-31"
+            }
+        },
+        {
+            "link": "https://www.prnewswire.com/apac/news-releases/uob-makes-steady-progress-on-net-zero-commitment-301972132.html",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Net Zero Commitment",
+                    "Decarbonisation",
+                    "Sustainable Financing"
+                ],
+                "summary": "The article discusses UOB's first net zero progress report, highlighting its commitment to achieving net zero emissions by 2050. It outlines specific reduction targets across five sectors and emphasizes the bank's efforts in sustainable financing and collaboration with stakeholders to support decarbonisation.",
+                "country": "Singapore",
+                "date": "2023-10-31"
+            }
+        },
+        {
+            "link": "https://www.businesstimes.com.sg/companies-markets/banking-finance/uob-sets-decarbonisation-targets-six-sectors-ends-financing",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Decarbonisation",
+                    "Sustainable Finance",
+                    "Climate Change Mitigation"
+                ],
+                "summary": "The article discusses UOB's commitment to decarbonisation, including its decision to stop financing new upstream oil and gas projects starting in 2023. It outlines the bank's targets for reducing emission intensity across six key sectors and emphasizes the importance of transitioning to a low-carbon economy while maintaining economic growth.",
+                "country": "Singapore",
+                "date": "2022-10-31"
+            }
+        },
+        {
+            "link": "https://www.uobgroup.com/uobgroup/newsroom/2022/transition-finance.page?path=data/uobgroup/2022/244&cr=segment",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Decarbonisation",
+                    "Climate Transition",
+                    "Sustainable Financing"
+                ],
+                "summary": "The article discusses UOB's launch of a new Transition Finance Framework aimed at supporting carbon-intensive sectors in their efforts to decarbonise. The framework provides tailored financing solutions for companies in industries such as oil, gas, and chemicals, enabling them to pivot towards more climate-friendly practices. UOB emphasizes the importance of aligning with international climate agreements and maintaining strict governance to prevent greenwashing.",
+                "country": "Singapore",
+                "date": "2022-09-29"
+            }
+        },
+        {
+            "link": "https://www.uobgroup.com/uobgroup/newsroom/2022/transition-finance.page?path=data/uobgroup/2022/244&cr=segment",
+            "output": {
+                "categories": "Environmental",
+                "sentiment": "Positive",
+                "incidents": "No incidents found",
+                "themes": [
+                    "Decarbonisation",
+                    "Climate Transition",
+                    "Sustainable Financing"
+                ],
+                "summary": "The article discusses UOB's launch of a Transition Finance Framework aimed at assisting carbon-intensive sectors in their decarbonisation efforts. The framework provides tailored financing solutions to help companies pivot towards more climate-friendly practices, aligning with international best practices and ensuring accountability to avoid greenwashing.",
+                "country": "Singapore",
+                "date": "2022-09-29"
+            }
+        }
+    ]
+}
